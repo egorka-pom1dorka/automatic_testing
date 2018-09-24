@@ -3,4 +3,7 @@ Just changed text
 =======
 Just text
 new content from develop branch
+<<<<<<< HEAD
+>>>>>>> 0739206... Changed common file from develop branch
+=======
 >>>>>>> 0739206... Changed common file from develop branch
